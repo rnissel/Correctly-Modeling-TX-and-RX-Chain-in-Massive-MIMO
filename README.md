@@ -42,7 +42,7 @@ Note that in my paper I made a lot of simplyfing assumptions to make the paper a
 In addition to reproducing Figure 5, also the analytical derivation steps in the appendix can be double-checked by simulations. For that, please run  [`TxRxChainTheoryVsSimulation.py`](TxRxChainTheoryVsSimulation.py). 
 
 Moreover, in the appendix I kept the explanations quite compact because of size constraints. In the following, please find a simplified derivation of the +φ LO effect in the TX chain and -φ LO effect in the RX chain:
-<img src="png/AddExpl.png" width=1500>
+<img src="png/addExpl.png" width=1500>
 
 
 ## Please Cite My Paper
